@@ -1,0 +1,19 @@
+{
+    "name": "mockgen",
+    "version": "1.0.0",
+    "description": "A simple, flexible fake data generator for API testing",
+    "main": "index.js",
+    "scripts": {
+        "example": "node example.js"
+    },
+    "keywords": [
+        "mock",
+        "fake",
+        "data",
+        "generator",
+        "testing",
+        "json"
+    ],
+    "author": "moterrry",
+    "license": "MIT"
+}
